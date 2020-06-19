@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a0e508f8-a658-4975-ba82-96d8aae9127a" name="vm" url="http://localhost">
+        <fileTransfer accessType="LOCAL" port="0" username="vagrant" />
+      </webServer>
+      <webServer id="e24a4f13-fc23-4893-9a7c-b23c1be9335b" name="web_debugging" url="http://localhost:8081">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
